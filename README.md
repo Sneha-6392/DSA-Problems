@@ -17,10 +17,12 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -34,4 +36,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
