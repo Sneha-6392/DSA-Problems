@@ -10,6 +10,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -43,6 +44,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -62,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
