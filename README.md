@@ -164,6 +164,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
