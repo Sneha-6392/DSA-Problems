@@ -66,6 +66,7 @@
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +207,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
