@@ -26,6 +26,7 @@
 | [0055-jump-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-6392/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
@@ -226,4 +227,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
+| [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
