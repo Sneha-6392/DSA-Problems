@@ -29,6 +29,7 @@
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
