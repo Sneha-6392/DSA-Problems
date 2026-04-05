@@ -1,16 +1,14 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-        int count_v = 0, count_h = 0;
-
-        for (int i = 0; i < moves.length(); i++) {
-            char ch = moves.charAt(i);
-
-            if (ch == 'U') count_v++;
-            else if (ch == 'D') count_v--;
-            else if (ch == 'R') count_h++;
-            else count_h--;
+        int x = 0;
+        int y = 0;
+        for (int i : moves.toCharArray()) {
+            if (i == 'U') x++;
+            else if (i == 'D') x--;
+            else if (i == 'L') y++;
+            else if (i == 'R') y--;
         }
 
-        return count_v == 0 && count_h == 0;
+        return x == 0 && y == 0;
     }
 }
