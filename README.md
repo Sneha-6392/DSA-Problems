@@ -60,6 +60,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0045-jump-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -98,6 +99,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
