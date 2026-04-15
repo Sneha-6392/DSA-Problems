@@ -27,6 +27,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Sneha-6392/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Prefix Sum
