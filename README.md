@@ -94,6 +94,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
