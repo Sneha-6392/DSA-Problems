@@ -223,6 +223,7 @@
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
