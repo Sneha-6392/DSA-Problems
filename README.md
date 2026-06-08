@@ -17,6 +17,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
@@ -125,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -214,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
