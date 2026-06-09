@@ -78,6 +78,7 @@
 | [0045-jump-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/Sneha-6392/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-6392/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
@@ -220,6 +221,7 @@
 | [0009-palindrome-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/Sneha-6392/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
