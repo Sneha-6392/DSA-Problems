@@ -99,6 +99,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
