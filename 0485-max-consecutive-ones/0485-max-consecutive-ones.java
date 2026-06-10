@@ -4,7 +4,7 @@ class Solution {
         int count = 0;
         for (int num : nums) {
             if (num == 1) {
-                count++;
+                count += 1;
             }
             else {
                 count = 0;
