@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-6392/DSA-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
@@ -89,6 +90,7 @@
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
