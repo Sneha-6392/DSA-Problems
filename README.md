@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-6392/DSA-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -87,6 +88,7 @@
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-6392/DSA-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -234,6 +236,7 @@
 | [0066-plus-one](https://github.com/Sneha-6392/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
