@@ -90,6 +90,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
