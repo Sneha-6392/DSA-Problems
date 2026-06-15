@@ -243,6 +243,7 @@
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -254,6 +255,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
