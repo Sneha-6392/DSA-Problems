@@ -271,6 +271,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -288,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Simulation
