@@ -25,6 +25,7 @@
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Sneha-6392/DSA-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -245,6 +246,7 @@
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Sneha-6392/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/Sneha-6392/DSA-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
