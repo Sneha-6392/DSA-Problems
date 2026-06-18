@@ -99,6 +99,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
@@ -139,6 +140,7 @@
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0414-third-maximum-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
