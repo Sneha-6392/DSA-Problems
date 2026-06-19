@@ -267,6 +267,7 @@
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -327,6 +328,7 @@
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
