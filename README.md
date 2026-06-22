@@ -38,6 +38,7 @@
 | [0771-jewels-and-stones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Sneha-6392/DSA-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
@@ -161,6 +162,7 @@
 | [0771-jewels-and-stones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -179,6 +181,7 @@
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
