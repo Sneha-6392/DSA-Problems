@@ -274,6 +274,7 @@
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
@@ -305,6 +306,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
+| [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
