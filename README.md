@@ -275,6 +275,7 @@
 | [0263-ugly-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
@@ -307,6 +308,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -342,6 +344,7 @@
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
