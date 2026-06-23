@@ -272,6 +272,7 @@
 | [0189-rotate-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
