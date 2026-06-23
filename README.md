@@ -62,6 +62,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sneha-6392/DSA-Problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Sneha-6392/DSA-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Sliding Window
@@ -276,6 +277,7 @@
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Sneha-6392/DSA-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
