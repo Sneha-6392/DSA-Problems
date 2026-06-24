@@ -31,6 +31,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0541-reverse-string-ii/) | Easy |
@@ -278,6 +279,7 @@
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Sneha-6392/DSA-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
@@ -347,6 +349,7 @@
 | [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
