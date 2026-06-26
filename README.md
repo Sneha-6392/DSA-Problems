@@ -30,6 +30,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/Sneha-6392/DSA-Problems/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
@@ -115,6 +116,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/Sneha-6392/DSA-Problems/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0414-third-maximum-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -362,6 +364,7 @@
 | [0029-divide-two-integers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/Sneha-6392/DSA-Problems/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
