@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Sneha-6392/DSA-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -49,6 +50,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0055-jump-game/) | Medium |
@@ -198,6 +200,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
