@@ -38,6 +38,7 @@
 | [0541-reverse-string-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Sneha-6392/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0709-to-lower-case](https://github.com/Sneha-6392/DSA-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/Sneha-6392/DSA-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
