@@ -33,6 +33,7 @@
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -283,6 +284,7 @@
 | [0367-valid-perfect-square](https://github.com/Sneha-6392/DSA-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -358,6 +360,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Sneha-6392/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/2069-walking-robot-simulation-ii/) | Medium |
