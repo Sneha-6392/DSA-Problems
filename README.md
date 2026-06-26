@@ -278,6 +278,7 @@
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/Sneha-6392/DSA-Problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/Sneha-6392/DSA-Problems/tree/main/0343-integer-break/) | Medium |
@@ -334,6 +335,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/Sneha-6392/DSA-Problems/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
