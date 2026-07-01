@@ -147,6 +147,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/3866-first-unique-even-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/3866-first-unique-even-element/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Trie
@@ -408,6 +411,7 @@
 | [2293-min-max-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/2293-min-max-game/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
