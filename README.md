@@ -207,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +255,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sneha-6392/DSA-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Sneha-6392/DSA-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
