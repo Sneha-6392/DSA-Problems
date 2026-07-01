@@ -147,6 +147,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/3866-first-unique-even-element/) | Easy |
 ## Prefix Sum
@@ -181,6 +182,7 @@
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
