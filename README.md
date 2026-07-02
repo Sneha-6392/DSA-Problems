@@ -76,6 +76,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha-6392/DSA-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Sneha-6392/DSA-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -83,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
@@ -130,6 +132,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0705-design-hashset](https://github.com/Sneha-6392/DSA-Problems/tree/main/0705-design-hashset/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/Sneha-6392/DSA-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -158,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
