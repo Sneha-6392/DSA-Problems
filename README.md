@@ -138,6 +138,7 @@
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -189,6 +190,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3731-find-missing-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -385,6 +387,7 @@
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -456,13 +459,27 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
