@@ -69,6 +69,7 @@
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@
 | [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/Sneha-6392/DSA-Problems/tree/main/1051-height-checker/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -411,6 +413,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sneha-6392/DSA-Problems/tree/main/0048-rotate-image/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
