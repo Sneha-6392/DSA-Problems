@@ -38,6 +38,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Sneha-6392/DSA-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [0402-remove-k-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
@@ -175,6 +176,7 @@
 | [0045-jump-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0179-largest-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0179-largest-number/) | Medium |
+| [0402-remove-k-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -256,6 +258,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0402-remove-k-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/Sneha-6392/DSA-Problems/tree/main/0735-asteroid-collision/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -498,4 +501,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sneha-6392/DSA-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
