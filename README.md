@@ -55,6 +55,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/3866-first-unique-even-element/) | Easy |
+| [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
+| [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
