@@ -44,6 +44,7 @@
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0520-detect-capital](https://github.com/Sneha-6392/DSA-Problems/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Sneha-6392/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
