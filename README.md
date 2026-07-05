@@ -56,6 +56,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/Sneha-6392/DSA-Problems/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
