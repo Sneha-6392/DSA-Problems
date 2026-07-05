@@ -20,6 +20,7 @@
 | [0541-reverse-string-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/Sneha-6392/DSA-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3884-first-matching-character-from-both-ends](https://github.com/Sneha-6392/DSA-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Sneha-6392/DSA-Problems/tree/main/3931-check-adjacent-digit-differences/) | Easy |
