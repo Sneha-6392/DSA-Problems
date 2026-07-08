@@ -33,6 +33,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Sneha-6392/DSA-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0179-largest-number/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Sneha-6392/DSA-Problems/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -227,6 +228,7 @@
 | [0001-two-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sneha-6392/DSA-Problems/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sneha-6392/DSA-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
