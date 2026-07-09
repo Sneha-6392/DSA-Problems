@@ -100,6 +100,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -149,6 +150,7 @@
 | [0414-third-maximum-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0705-design-hashset](https://github.com/Sneha-6392/DSA-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
