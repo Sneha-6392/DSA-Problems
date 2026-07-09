@@ -127,6 +127,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/Sneha-6392/DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Sneha-6392/DSA-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -234,6 +235,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/Sneha-6392/DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sneha-6392/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
