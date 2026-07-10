@@ -27,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Sneha-6392/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0022-generate-parentheses/) | Medium |
