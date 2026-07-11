@@ -30,6 +30,7 @@
 | [0006-zigzag-conversion](https://github.com/Sneha-6392/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sneha-6392/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/Sneha-6392/DSA-Problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0205-isomorphic-strings/) | Easy |
@@ -556,5 +558,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
