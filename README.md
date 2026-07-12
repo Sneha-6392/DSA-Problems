@@ -176,6 +176,7 @@
 | [1051-height-checker](https://github.com/Sneha-6392/DSA-Problems/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sneha-6392/DSA-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -237,6 +238,7 @@
 | [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/Sneha-6392/DSA-Problems/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -267,6 +269,7 @@
 | [0874-walking-robot-simulation](https://github.com/Sneha-6392/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Sneha-6392/DSA-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3731-find-missing-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3731-find-missing-elements/) | Easy |
