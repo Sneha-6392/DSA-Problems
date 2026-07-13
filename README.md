@@ -421,6 +421,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
+| [1291-sequential-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/1291-sequential-digits/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
