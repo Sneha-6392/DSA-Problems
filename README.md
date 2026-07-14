@@ -109,6 +109,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0480-sliding-window-median](https://github.com/Sneha-6392/DSA-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -161,6 +162,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sneha-6392/DSA-Problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0480-sliding-window-median](https://github.com/Sneha-6392/DSA-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
@@ -264,6 +266,7 @@
 | [0389-find-the-difference](https://github.com/Sneha-6392/DSA-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0480-sliding-window-median](https://github.com/Sneha-6392/DSA-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/Sneha-6392/DSA-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0771-jewels-and-stones/) | Easy |
@@ -525,6 +528,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0480-sliding-window-median](https://github.com/Sneha-6392/DSA-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
