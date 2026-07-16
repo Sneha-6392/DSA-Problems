@@ -184,6 +184,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sneha-6392/DSA-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -413,6 +414,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Sneha-6392/DSA-Problems/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -438,6 +440,7 @@
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
