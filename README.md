@@ -61,6 +61,7 @@
 | [0709-to-lower-case](https://github.com/Sneha-6392/DSA-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0771-jewels-and-stones/) | Easy |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Sneha-6392/DSA-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -409,6 +410,7 @@
 | [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
