@@ -24,6 +24,7 @@
 | [0567-permutation-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/Sneha-6392/DSA-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -203,6 +204,7 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3866-first-unique-even-element](https://github.com/Sneha-6392/DSA-Problems/tree/main/3866-first-unique-even-element/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -253,6 +255,7 @@
 | [3745-maximize-expression-of-three-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +429,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Sneha-6392/DSA-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3908-valid-digit-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/3908-valid-digit-number/) | Easy |
@@ -444,6 +448,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +515,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Sneha-6392/DSA-Problems/tree/main/3894-traffic-signal-color/) | Easy |
 | [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 ## Linked List
