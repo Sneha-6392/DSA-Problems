@@ -406,6 +406,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/Sneha-6392/DSA-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
@@ -468,6 +469,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/Sneha-6392/DSA-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0390-elimination-game/) | Medium |
@@ -510,6 +512,7 @@
 | [0029-divide-two-integers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Sneha-6392/DSA-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0318-maximum-product-of-word-lengths](https://github.com/Sneha-6392/DSA-Problems/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
