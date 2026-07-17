@@ -194,6 +194,7 @@
 | [2293-min-max-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/2293-min-max-game/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Sneha-6392/DSA-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -426,6 +427,7 @@
 | [2469-convert-the-temperature](https://github.com/Sneha-6392/DSA-Problems/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sneha-6392/DSA-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Sneha-6392/DSA-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -452,6 +454,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sneha-6392/DSA-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Sneha-6392/DSA-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
@@ -491,6 +494,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sneha-6392/DSA-Problems/tree/main/0048-rotate-image/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2614-prime-in-diagonal](https://github.com/Sneha-6392/DSA-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Bit Manipulation
