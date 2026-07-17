@@ -425,6 +425,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Sneha-6392/DSA-Problems/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sneha-6392/DSA-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -450,6 +451,7 @@
 | [0258-add-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Sneha-6392/DSA-Problems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2523-closest-prime-numbers-in-range](https://github.com/Sneha-6392/DSA-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
