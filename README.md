@@ -518,6 +518,7 @@
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/Sneha-6392/DSA-Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/Sneha-6392/DSA-Problems/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
