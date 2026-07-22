@@ -3,15 +3,12 @@ class Solution {
         int n = s.length;
         helper(s, 0, n - 1);
     }
-
-    private void helper(char[] arr, int left, int right) {
+    public void helper(char[] arr, int left, int right) {
         if (left >= right)
             return;
-
         char temp = arr[left];
         arr[left] = arr[right];
         arr[right] = temp;
-
         helper(arr, left + 1, right - 1);
     }
 }
