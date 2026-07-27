@@ -171,6 +171,7 @@
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0480-sliding-window-median](https://github.com/Sneha-6392/DSA-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
 | [0705-design-hashset](https://github.com/Sneha-6392/DSA-Problems/tree/main/0705-design-hashset/) | Easy |
@@ -252,6 +253,7 @@
 | [0414-third-maximum-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Sneha-6392/DSA-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/Sneha-6392/DSA-Problems/tree/main/1051-height-checker/) | Easy |
@@ -426,6 +428,7 @@
 | [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Sneha-6392/DSA-Problems/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
