@@ -90,6 +90,7 @@
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Sneha-6392/DSA-Problems/tree/main/0343-integer-break/) | Medium |
 | [0392-is-subsequence](https://github.com/Sneha-6392/DSA-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
@@ -172,6 +173,7 @@
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0480-sliding-window-median](https://github.com/Sneha-6392/DSA-Problems/tree/main/0480-sliding-window-median/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
@@ -429,6 +431,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sneha-6392/DSA-Problems/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/Sneha-6392/DSA-Problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/0415-add-strings/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -486,6 +489,7 @@
 | [0326-power-of-three](https://github.com/Sneha-6392/DSA-Problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Sneha-6392/DSA-Problems/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -510,6 +514,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
