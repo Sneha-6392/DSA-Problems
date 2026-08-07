@@ -71,6 +71,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3856-trim-trailing-vowels](https://github.com/Sneha-6392/DSA-Problems/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/Sneha-6392/DSA-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -239,6 +240,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
@@ -452,6 +454,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
@@ -479,6 +482,7 @@
 | [2523-closest-prime-numbers-in-range](https://github.com/Sneha-6392/DSA-Problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Sneha-6392/DSA-Problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
@@ -626,6 +630,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
