@@ -95,6 +95,7 @@
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -189,6 +190,7 @@
 | [0912-sort-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/Sneha-6392/DSA-Problems/tree/main/1051-height-checker/) | Easy |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -225,6 +227,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sneha-6392/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sneha-6392/DSA-Problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sneha-6392/DSA-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Greedy
@@ -440,6 +443,7 @@
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Sneha-6392/DSA-Problems/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sneha-6392/DSA-Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1390-four-divisors](https://github.com/Sneha-6392/DSA-Problems/tree/main/1390-four-divisors/) | Medium |
@@ -520,6 +524,7 @@
 | [0292-nim-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,4 +641,12 @@
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
