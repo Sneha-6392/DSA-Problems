@@ -204,6 +204,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Sneha-6392/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2293-min-max-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/2293-min-max-game/) | Easy |
@@ -250,6 +251,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/Sneha-6392/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
