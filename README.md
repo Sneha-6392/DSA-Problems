@@ -594,6 +594,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sneha-6392/DSA-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sneha-6392/DSA-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0705-design-hashset](https://github.com/Sneha-6392/DSA-Problems/tree/main/0705-design-hashset/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sneha-6392/DSA-Problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
