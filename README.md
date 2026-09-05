@@ -231,6 +231,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3921-score-validator](https://github.com/Sneha-6392/DSA-Problems/tree/main/3921-score-validator/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -241,6 +242,7 @@
 | [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sneha-6392/DSA-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3904-smallest-stable-index-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
