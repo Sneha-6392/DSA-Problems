@@ -37,6 +37,7 @@
 | [0022-generate-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-6392/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Sneha-6392/DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sneha-6392/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Sneha-6392/DSA-Problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -88,6 +89,7 @@
 | [0053-maximum-subarray](https://github.com/Sneha-6392/DSA-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Sneha-6392/DSA-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sneha-6392/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Sneha-6392/DSA-Problems/tree/main/0343-integer-break/) | Medium |
