@@ -64,6 +64,7 @@
 | [0657-robot-return-to-origin](https://github.com/Sneha-6392/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Sneha-6392/DSA-Problems/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Sneha-6392/DSA-Problems/tree/main/0771-jewels-and-stones/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1044-longest-duplicate-substring](https://github.com/Sneha-6392/DSA-Problems/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Sneha-6392/DSA-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -97,6 +98,7 @@
 | [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
