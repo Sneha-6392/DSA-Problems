@@ -221,6 +221,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-6392/DSA-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sneha-6392/DSA-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -325,6 +326,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sneha-6392/DSA-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sneha-6392/DSA-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -508,6 +510,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Sneha-6392/DSA-Problems/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/1291-sequential-digits/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sneha-6392/DSA-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Number Theory
@@ -534,6 +537,7 @@
 | [0390-elimination-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/0390-elimination-game/) | Medium |
 | [0486-predict-the-winner](https://github.com/Sneha-6392/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
