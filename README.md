@@ -103,6 +103,7 @@
 | [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sneha-6392/DSA-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sneha-6392/DSA-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-6392/DSA-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-6392/DSA-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -291,6 +294,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sneha-6392/DSA-Problems/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
