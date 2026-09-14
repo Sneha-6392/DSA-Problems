@@ -477,6 +477,7 @@
 | [0509-fibonacci-number](https://github.com/Sneha-6392/DSA-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Sneha-6392/DSA-Problems/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [0836-rectangle-overlap](https://github.com/Sneha-6392/DSA-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1025-divisor-game](https://github.com/Sneha-6392/DSA-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/1140-stone-game-ii/) | Medium |
@@ -708,4 +709,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Sneha-6392/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Sneha-6392/DSA-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
