@@ -69,6 +69,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Sneha-6392/DSA-Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sneha-6392/DSA-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sneha-6392/DSA-Problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -264,6 +265,7 @@
 | [0402-remove-k-digits](https://github.com/Sneha-6392/DSA-Problems/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Sneha-6392/DSA-Problems/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sneha-6392/DSA-Problems/tree/main/0881-boats-to-save-people/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-6392/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/Sneha-6392/DSA-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sneha-6392/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -295,6 +297,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sneha-6392/DSA-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Sneha-6392/DSA-Problems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -330,6 +333,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Sneha-6392/DSA-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Sneha-6392/DSA-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Sneha-6392/DSA-Problems/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sneha-6392/DSA-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Sneha-6392/DSA-Problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
