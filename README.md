@@ -229,6 +229,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sneha-6392/DSA-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sneha-6392/DSA-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sneha-6392/DSA-Problems/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3525-find-x-value-of-array-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sneha-6392/DSA-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -445,6 +446,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0699-falling-squares](https://github.com/Sneha-6392/DSA-Problems/tree/main/0699-falling-squares/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +510,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Sneha-6392/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/Sneha-6392/DSA-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sneha-6392/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sneha-6392/DSA-Problems/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sneha-6392/DSA-Problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
